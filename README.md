@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Kayke Koeller Aluno em desenvolvimento!!
 
-- 🔭 No momento estou apenas cursando análise e desenvolvimento de sistemas.
-- 🌱 Estudando HTML, CSS, C e C++.
+- 🔭 Formado em Análise e desenvolvimento de sistemas - FMU.
+- 🔭 Cursando CyberSecurity Red team Ofensive - FIAP.
+- 🌱 --------------------------------------------------.
 - 📫 Contate-me no email kaykekoeller@hotmail.com
 - 😄 
 <div style="display: inline_block"><br>
